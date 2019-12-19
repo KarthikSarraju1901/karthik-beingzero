@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KarthikSarraju1901/karthik-beingzero/issues"
   },
-  "homepage": "https://github.com/KarthikSarraju1901/karthik-beingzero#readme"
+  "homepage": "https://github.com/KarthikSarraju1901/karthik-beingzero#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
